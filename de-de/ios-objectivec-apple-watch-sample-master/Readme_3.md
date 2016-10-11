@@ -56,6 +56,7 @@ Dieses Beispiel befindet sich noch in Bearbeitung und wir würden uns über Ihre
         NSString * const kResourceId  = @"https://graph.microsoft.com";
 
 5. Führen Sie das Beispiel aus, und stellen Sie sicher, dass das Ziel auf das iPhone/Apple Watch-Schema der WatchKit-App festgelegt ist. 
+
 ![Ziel](https://github.com/microsoftgraph/iOS-objectiveC-apple-watch-sample/blob/master/Images/target.jpg)
 6. Stellen Sie sicher, dass die Simulatoren für die iOS-App und die Watch-App sichtbar sind. Klicken Sie auf der Telefon-App auf *Verbinden*; Sie werden daraufhin aufgefordert, ein geschäftliches E-Mail-Konto zu authentifizieren. Geben Sie Ihre Anmeldeinformationen ein. 
 ![Authentifizierung](https://github.com/microsoftgraph/iOS-objectiveC-apple-watch-sample/blob/master/Images/Authentication.jpg)
